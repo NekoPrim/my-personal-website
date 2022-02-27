@@ -1,70 +1,47 @@
-# Getting Started with Create React App
+# Personal Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A personal website is a great way to sell yourself while job hunting. Your website should include information about who you are, what you do, and link to places you are on the internet (GitHub, LinkedIn, etc.). It can also serve as an online resume with a portfolio of your work. Extending that further, it can also be a nice way to talk about things that you are learning or projects that you working on in a blog form as well. 
 
-## Available Scripts
+There are 4 different types of personal websites that you might create:
 
-In the project directory, you can run:
+- Static Landing Page
+- Static Site with several pages (think Home, Projects, Contact, etc.)
+- Static Blog (Blog without comments)
+- Full Blog Site (with comments)
 
-### `npm start`
+## Requirements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Create a personal website/hub for your job hunt. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Should have at a minimum: 
 
-### `npm test`
+- contact info
+- link to LinkedIn
+- links to github repos. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Consider adding images for your pinned projects, assuming a visitor may not click through the repo.
 
-### `npm run build`
+> If you choose to include a blog, make sure to continue updating it on a regular basis so the site doesn't look forgotten or out of date!
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Resources
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- https://startbootstrap.com/template-categories/landing-pages/
+- https://hexo.io/
+- https://wordpress.com/
+- https://pages.github.com/
+- Deployment to Netlify (no server needed): https://www.netlify.com/
+- React App deployment (AWS, Github Pages, Heroku, Firebase): https://create-react-app.dev/docs/deployment/
+- Custom domains for heroku: https://support.google.com/domains/answer/6346300?hl=en
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Alumni Student Examples
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Most are static HTML/CSS sites from templates, but not all. There are many ways to tackle this!
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- https://jakestucky.github.io/ (Tarjan)
+- https://ashleyberry.github.io/ab-portfolio/ (Tarjan)
+- https://michaelsiddall.github.io/ (Tarjan)
+- https://jjschubert.dev/ (Rabin)
+- https://dwsmith.dev/#/ (Dane the Instructor)
+- https://emersona-glitch.github.io/ (Rabin)
+- https://bradytrudeau.github.io/ (Tarjan)

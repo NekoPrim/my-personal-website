@@ -7,7 +7,7 @@ const About = () => {
             <h1
                 className="aboutHeader"
             >
-                About Desiree
+                Desiree Quade
             </h1>
 
             {/* contains paragraph and picture of me */}

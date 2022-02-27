@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Barriecito&family=Gloria+Hallelujah');
+
+nav {
+  background-color: darkblue;
+  display: flex;
+  justify-content: flex-end;
+  margin: 0;
+  opacity: 0.8;
+  padding: 1rem 0.5rem 1rem 0.5rem;
+}
+
+.link {
+  color: snow;
+  font-family: 'Barriecito', cursive;
+  font-size: 2rem;
+  margin: 0.5rem;
+}
+
+.link:hover {
+  color: skyblue;
+}

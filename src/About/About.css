@@ -1,0 +1,20 @@
+body {
+    background-color: snow;
+}
+
+.aboutHeader {
+    border-bottom: 3px dotted;
+    color: darkblue;
+    font-family: 'Barriecito', cursive;
+    margin: 0 5rem 0 5rem;
+    padding: 1rem 0 1rem 0;
+    text-align: center;
+}
+
+.aboutPara {
+    color: darkblue;
+    font-family: 'Gloria Hallelujah', cursive;
+    font-size: 1.4rem;
+    padding: 1rem;
+    text-align: center;
+}

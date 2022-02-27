@@ -17,6 +17,7 @@ import './App.css';
 
 function App() {
 
+  // responsive design?
   const [width, setWindowWidth] = useState(0)
     useEffect(() => { 
 
@@ -32,6 +33,9 @@ function App() {
       setWindowWidth(width)
     }
 
+    // setup image to rotate
+    const [ toggle, setToggle ] = useState(true);
+
   return (
     <div className="App">
       <Router>
@@ -40,6 +44,15 @@ function App() {
         <Redirect exact from="/" to="/about" />
 
         <nav>
+          <div className="toggleArea" onClick={() => setToggle(!toggle)}>
+            {
+              toggle 
+              ?
+              <img className="appPic" src="images/neko-head.png" /> 
+              : 
+              <img className="rotate" src="images/neko-head.png" />
+            }
+          </div>
 
           {/* navigate to about me component */}
           <Link 

@@ -1,0 +1,17 @@
+body {
+    background-color: snow;
+}
+
+.aboutHeader {
+    border-bottom: 3px dotted;
+    color: darkblue;
+    font-family: 'Barriecito', cursive;
+    margin: 0 20rem 0 20rem;
+    padding: 1rem 0 1rem 0;
+    text-align: center;
+}
+
+.aboutPara {
+    padding: 1rem;
+    text-align: center;
+}

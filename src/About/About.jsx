@@ -24,6 +24,10 @@ const About = () => {
                     code for all humans. When I'm not programming, I'm trying to 
                     learn new things and hanging out with my dog, Neko.
                 </p>
+                <img 
+                    className="aboutPic"
+                    src="images/desireePic.jpeg" 
+                />
             </div>
         </div>
     );

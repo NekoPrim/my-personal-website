@@ -17,7 +17,15 @@
 
 .icon {
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     margin-left: 50%;
     transform: translateX(-50%);
 }
+
+.contactGif {
+    border: 3px solid darkblue;
+    margin-left: 50%;
+    margin-top: 3rem;
+    transform: translateX(-50%);
+}
+

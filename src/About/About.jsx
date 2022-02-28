@@ -2,6 +2,8 @@ import './About.css';
 
 // This component is a summary about me
 const About = () => {
+
+    // render to DOM
     return(
         <div>
             <h1

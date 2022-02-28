@@ -13,10 +13,13 @@ body {
 
 .aboutPara {
     align-items: center;
-    color: darkblue;
+    background-color: darkblue;
+    border-radius: 20px;
+    color: snow;
     font-family: 'Gloria Hallelujah', cursive;
     font-size: 1.4rem;
     margin-left: 1rem;
+    opacity: 0.8;
     padding: 1rem;
     text-align: center;
 }

@@ -6,7 +6,7 @@ nav {
   justify-content: flex-end;
   margin: 0;
   opacity: 0.8;
-  padding: 1rem 0.5rem 1rem 0.5rem;
+  padding: 2rem 0.5rem 2rem 0.5rem;
 }
 
 .link {
@@ -18,4 +18,28 @@ nav {
 
 .link:hover {
   color: skyblue;
+}
+
+.appPic {
+  height: 100px;
+  left: 1rem;
+  position: absolute;
+  top: 1rem;
+}
+
+.rotate {
+  animation-direction: linear;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-name: spin;
+  height: 100px;
+  left: 1rem;
+  position: absolute;
+  top: 1rem;
+  transform: rotate(359deg);
+}
+
+@keyframes spin {
+  from {transform: rotate(0deg);}
+  to {transform: rotate(359deg);}
 }

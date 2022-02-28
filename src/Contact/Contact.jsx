@@ -2,6 +2,8 @@ import './Contact.css';
 
 // this component contains my github and linkedin
 const Contact = () => {
+
+    // render to DOM
     return(
         <div>
             <h1
